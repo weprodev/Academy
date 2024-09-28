@@ -10,6 +10,7 @@ At WeProDev Academy, we strive to provide a supportive and nurturing environment
 Successful WeProDev Academy applicants join a team to collaborate on an open-source project. 
 
 This 3-5 month internship provides a hands-on opportunity to develop new skills within a supportive team environment.
+After the Bootcamp, graduates will have 1:1 meetings to discuss CVs, LinkedIn profiles, and job search strategies.
 
 # Policy & Rules
 All the people in WeProDev company must follow the following policies
