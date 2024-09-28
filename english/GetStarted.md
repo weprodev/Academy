@@ -13,11 +13,20 @@ Ready to get started? Complete these steps.
 - After 1:1 meeting with your mentor, you need to define a specific goal for the entire bootcamp. 
   - To learn how to **Define a Goal** for yourself, follow this article: How to define and measure our goals!
 - If you didn't invite to Slack Channel, ask your mentor to invite you. 
-- Create account on [ADPlist](adplist.org) 
+- Create account on [ADPlist](https://adplist.org) 
 - Learn the below skills first
   - Effective Google Searching: Learn to find the information you need efficiently.
   - Git and GitHub: Understand how to use Git for version control and collaborate effectively on GitHub.
     - Why all teams are using Git and version control?!
+- Choose a sport to do 3 times per week
+  - 1 hour walking
+  - Running
+  - Gym/ Club
+  - Climbing
+  - Swimming
+  - Football
+  - ...
+  - And start small, track your progress, and celebrate your achievements along the way.
 
 
 # Tools 
