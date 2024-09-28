@@ -7,9 +7,3 @@ WeProDev's slogan, 'We develop for growth,' reflects our commitment to holistic 
 
 At WeProDev Academy, we strive to provide a supportive and nurturing environment where individuals can learn, grow, and develop the skills they need to succeed. We believe that **everyone has the potential to make a positive impact on the world**, and we are dedicated to helping our students realize their full potential.
 
-# Sources & Tools & Policys 
-You can read Sources and Tools translated to suit your needs.
-
-- [English](https://github.com/weprodev/Academy/english/Readme.md) 
-- [Kurdish](https://github.com/weprodev/Academy/kurdish/Readme.md)
-- [Persion](https://github.com/weprodev/Academy/persian/Readme.md)
