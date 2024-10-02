@@ -37,6 +37,7 @@ You should install the below tools
 - [Notion Calendar](https://www.notion.so/product/calendar) [Laptop, and Phone]
   - Connect to your Google account
 - [Obsidian](https://obsidian.md/) - for Note taking
+  - [Learn about it here](./../obsidian/Readme.md)
 - For Linux:
   - [Guake](https://github.com/Guake/guake)
 - For Mac
