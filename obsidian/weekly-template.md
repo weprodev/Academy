@@ -1,5 +1,3 @@
-# Week [x]
-
 ## 🎗️ **Quick reminder**
 
 ### 🌟 **Why is a weekly reflection important?**
@@ -9,6 +7,8 @@
 - Allows me to **reflect on important moments** in the past week
 - Sets **clear intentions and priorities** for the upcoming week
 ### ⚡️ **Complete in order**
+
+- [ ] Review monthly plan 
 
 1. **Get into focus mode:** put phone away 📵 , quit messaging apps, do not disturb on
 2. **Clear my digital workspaces**: tidy up the virtual environment where I get things done
@@ -120,6 +120,16 @@
 - ## **What do I want to continue doing?**
 	- 
 
+- [ ]  🔥 Live at the edge of your ability (willpower struggle)?
+- [ ]  👂 Did you listen enough? Did you ask questions, without speaking?
+- [ ]  🐲 Say no to most things?
+- [ ]  🧠 Did you _improve thinking_ with your second brain?
+- [ ]  📚 Did you read consistently?
+- [ ]  ❤️ Feel love and give love, regardless of how you feel?
+- [ ]  🧠 Very little distractions (insta, mail, conversation)?
+- [ ]  🥕 Healthy eating?
+- [ ]  ☺️ Real alone time?
+- [ ]  🍽 Fasting?
 
 ### 🙏 Gratitude
 
