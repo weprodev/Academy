@@ -32,7 +32,7 @@ All the people in WeProDev company must follow the following policies
 - If you don't have 1:1 meeting in your agenda, talk to your mentor.
 - To stay on track, follow the specific courses recommended by your mentor. This will help you achieve your goals and monitor your progress.
 - Learning in a bootcamp isn't just about IT and programming languages. It's also about developing essential soft skills like teamwork and communication. These skills are crucial for personal and professional growth, and they can help you learn new technical skills more effectively.
-- **Weekly Knowledge Sharing Sessions** are a valuable component of our program. Each week, interns will present on the topics they've explored and the insights they've gained. [English is preferred, but feel free to share in your native language if everyone understands.]
+- **Weekly Knowledge Sharing Sessions** are a valuable component of our program. Each week, interns will present on the topics they've explored and the insights they've gained. [English is preferred, but feel free to share in your native language if everyone understands.] here is the list of the things that you need to present [Weekly Presentation Template](./WeeklyPresentation.md)
 
 ## TeamWork
 - As we said, Don't hesitate to reach out to a teammate for help. Let's chat online or via text!
