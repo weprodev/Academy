@@ -115,7 +115,7 @@ git commit -m "Update readme and fix login issue"
 ---
 #### References
 - [Atomic commits will help you git legit](https://www.pauline-vos.nl/atomic-commits/)
-- [Good Commit VS Bad Commit: Best Practices for Git](https://dev.to/sheraz4194/good-commit-vs-bad-commit-best-practices-for-git-1plc?ref=dailydev)
+- [Good Commit VS Bad Commit: Best Practices for Git](https://dev.to/sheraz4194/good-commit-vs-bad-commit-best-practices-for-git-1plc)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Demystifying Conventional Commits](https://angelo.dini.dev/blog/conventional-commits/)
 - [How To Improve Your Git Commit Messages Using Conventional Commits](https://dev.to/danywalls/how-to-improve-your-git-commit-messages-using-conventional-commits-49f5)
