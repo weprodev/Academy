@@ -51,6 +51,7 @@ You should install the below tools
     - [LastPass](https://www.lastpass.com/)
   - [Daily.Dev](https://daily.dev)
     - Keep in mind to select your topics based on your goals, NOT all topics
+    - Join the [WeProDev squad](https://dly.to/0CnjbZS1mQI)
   - Stay Focus App to Block distractions
     - [BlockSite: Block Websites & Stay Focused](https://chromewebstore.google.com/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh)
     - [Pause - Stop Mindless Browsing](https://chromewebstore.google.com/detail/pause-stop-mindless-brows/ljfdccdjpfjpfjbpdiihanpodilolofh?hl=en&gl=US&authuser=0)
