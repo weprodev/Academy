@@ -47,6 +47,8 @@ All the people in WeProDev company **must** follow the following policies
 - If you're facing a challenge, consider pair-programming with a teammate or mentor for collaborative problem-solving.
 - We use a Kanban board, and it helps us plan our work and reflect on progress each week.
 
+And here [Team Work Flow](./TeamWorkFlow.md) we defined our team workflow.
+
 ## Sources
 
 The best way to learn a language or tool is to start with its official documentation. [We also recommend these additional resources](./Sources.md).
