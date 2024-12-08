@@ -13,8 +13,8 @@ If you wish to join one of the Bootcamp, Apply by emailing [info@weprodev.com] w
 - Subject: Bootcamp Application - [Your Name]
 - Motivation: Briefly explain why you're interested in joining the Bootcamp.
 - Goals: Outline your learning objectives for the program.
-- Experience: Attach your LinkedIn profile or resume for us to review your skills.
-- Availability: Indicate how many hours you can dedicate daily for the 3-5 month program.
+- Experience: Attach your LinkedIn profile, resume or GitHub account for us to review your skills.
+- Availability: Indicate how many hours you can dedicate daily for the 4-6 months program.
   
 
 # Sources & Tools & Policy  
