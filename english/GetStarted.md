@@ -44,6 +44,7 @@ Ready to get started? Complete these steps.
 
 
 # Tools 
+
 You should install the below tools
 - It's required to work with Linux (recommend: [Ubuntu](https://ubuntu.com/)) or Mac OS.
   - If it's not possible for you because of any reason, it's also fine. 

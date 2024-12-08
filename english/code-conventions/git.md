@@ -1,4 +1,7 @@
 # Git Conventions 
+You can read this convention page our medium blog here: [Git Convention for Consistent and Semantic Structure](https://blog.weprodev.com/git-convention-for-consistent-and-semantic-structure-c7b0f3ac996c)
+
+
 This document outlines our Git workflow guidelines. You'll find information on branch creation, commit structures, and effective team collaboration. 
 Conventional Commits provide a standardized convention for writing commit messages. The primary aim is to establish a consistent and semantic structure that is easily interpretable by humans and machines.
 
