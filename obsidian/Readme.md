@@ -16,6 +16,8 @@ Here you can find some nice YouTube or articles
 - [The 6 Horizons of Focus](https://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/)
 
 # Obsidian Templates
-- [Daily Template](./daily-template.md)
-- [Weekly Template](./weekly-template.md)
+- [Daily Template](./dailyReflectionTemplate.md)
+- [Weekly Template](./weeklyReflectionTemplate.md)
 - [Monthly Template]
+- [Quarterly Template]
+- [Yearly Template]
